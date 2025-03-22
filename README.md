@@ -24,11 +24,11 @@ Welcome to the **"Guess the Number"** game! 🎉 This is a simple console-based 
 ### 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/b-hensley/guess-the-number.git
+   git clone https://github.com/B-Hensley/guess-the-number.git
    ```
 ### 2. Navigate to project directory:
    ```bash
-   cd guess-the-number.py
+   cd number game
    ```
 ### 3. Run the game:
    ```bash
@@ -42,3 +42,8 @@ Welcome to the **"Guess the Number"** game! 🎉 This is a simple console-based 
 
 - **`play_game()`** 🔄  
   This function manages the flow of the game, allowing the player to play multiple rounds or quit after finishing a round.
+
+
+### 💡 Created by **Brenda Hensley**
+### 🐍 Built with Python
+### 📌 Feel free to contribute or suggest improvements!
